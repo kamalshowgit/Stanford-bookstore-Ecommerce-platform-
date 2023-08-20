@@ -56,6 +56,28 @@ Welcome to the README for the **Oxford Bookstore E-commerce Website** project. T
 
 7. Access the website through your browser at `http://127.0.0.1:8000/`.
 
+### User Workflow Screenshots
+
+1. **Home Page**
+![Home Page](ss/1.png)
+_Description: This is the landing page of the Oxford Bookstore E-commerce Website where users can explore featured books._
+
+2. **Book Detail View**
+![Book Detail View](ss/2.png)
+_Description: This page provides detailed information about a selected book, including its title, author, and a description._
+
+3. **Login Page**
+![Login Page](ss/3.png)
+_Description: Users can log in to their accounts to access personalized features and view their order history._
+
+4. **Checkout Page**
+![Checkout Page](ss/4.png)
+_Description: This page displays the items in the user's cart and allows them to proceed with the checkout process._
+
+By following this approach, you'll be able to provide a clear visual representation of your project's workflow using annotated screenshots. Just remember to replace "link-to-your-image-X.png" with the actual URLs of your uploaded images.
+
+
+
 ## Contributing
 
 Contributions to this project are welcome! If you find any bugs or have suggestions for improvements, please feel free to open issues or submit pull requests.
