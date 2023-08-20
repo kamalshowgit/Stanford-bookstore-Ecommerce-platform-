@@ -67,5 +67,3 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 Enjoy your experience with the Oxford Bookstore E-commerce Website! If you have any questions or need assistance, feel free to contact us.
 
 ---
-
-*Note: Replace placeholders such as `your-username` with appropriate values.*
