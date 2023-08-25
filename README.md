@@ -1,6 +1,6 @@
-# Oxford Bookstore E-commerce Website
+# Stanford Bookstore E-commerce Website
 
-Welcome to the README for the **Oxford Bookstore E-commerce Website** project. This is a Django-based e-commerce platform designed to provide a seamless online shopping experience for book enthusiasts. The project incorporates all the necessary features of an e-commerce website, including a user-friendly interface, product catalog, shopping cart, user authentication, and a secure PayPal payment method.
+Welcome to the README for the **Stanford Bookstore E-commerce Website** project. This is a Django-based e-commerce platform designed to provide a seamless online shopping experience for book enthusiasts. The project incorporates all the necessary features of an e-commerce website, including a user-friendly interface, product catalog, shopping cart, user authentication, and a secure PayPal payment method.
 
 ## Features
 
@@ -26,12 +26,12 @@ Welcome to the README for the **Oxford Bookstore E-commerce Website** project. T
 
 1. Clone the repository to your local machine.
    ```
-   git clone https://github.com/kamalshowgit/oxford-bookstore
+   git clone https://github.com/kamalshowgit/Stanford-bookstore
    ```
 
 2. Navigate to the project directory.
    ```
-   cd oxford-bookstore
+   cd Stanford-bookstore
    ```
 
 3. Install the required dependencies using pip.
@@ -60,7 +60,7 @@ Welcome to the README for the **Oxford Bookstore E-commerce Website** project. T
 
 1. **Home Page**
 ![Home Page](ss/1.png)
-_Description: This is the landing page of the Oxford Bookstore E-commerce Website where users can explore featured books._
+_Description: This is the landing page of the Stanford Bookstore E-commerce Website where users can explore featured books._
 
 2. **Book Detail View**
 ![Book Detail View](ss/2.png)
@@ -86,6 +86,6 @@ Contributions to this project are welcome! If you find any bugs or have suggesti
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code according to the terms of this license.
 
-Enjoy your experience with the Oxford Bookstore E-commerce Website! If you have any questions or need assistance, feel free to contact us.
+Enjoy your experience with the Stanford Bookstore E-commerce Website! If you have any questions or need assistance, feel free to contact us.
 
 ---
